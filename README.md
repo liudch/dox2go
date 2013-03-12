@@ -1,6 +1,8 @@
 dox2go`
 ======
 
+> 生成 pdf
+
 Dox2Go is a Go library for generating documents in a variety of formats. 
 
 Currently PDF is the only supported output format.
